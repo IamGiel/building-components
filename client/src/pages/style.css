@@ -1,0 +1,20 @@
+.background {
+  opacity: 1;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: show;
+  z-index: -100;
+}
+p {
+  z-index: 1;
+}
+h1 {
+  position: relative;
+  top: -22em;
+  left: 2em;
+  color: white;
+  box-shadow: -2em 7px red;
+}

@@ -1,0 +1,22 @@
+.footer {
+  min-height: 100px;
+  background: #596690;
+  position: fixed;
+  top: 35.5em;
+  width: 100%;
+  color: aliceblue;
+  margin: 0px;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #001e7d;
+  height: 7em;
+  line-height: 73px;
+  text-align: center;
+  font-size: 12px;
+}
