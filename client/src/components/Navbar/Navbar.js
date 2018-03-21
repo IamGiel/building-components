@@ -26,8 +26,8 @@ const Navbar = props => {
               </a>
             </li>
             <li>
-              <a href="/discover" className="listItems">
-                {/* <Link to="/discover">Discover</Link> */}Discover
+              <a href="https://the-reading-exchange.herokuapp.com/" className="listItems">
+                {/* <Link to="/discover">Discover</Link> */}Exchanges
               </a>
             </li>
             <li>
