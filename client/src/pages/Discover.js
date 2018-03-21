@@ -16,9 +16,7 @@ const About = () => (
     </Hero>
     <Container style={{ marginTop: 30 }}>
       <Row>
-        <Col size="md-12">
-          <h1 className="welcome">Welcome To Gels Web!</h1>
-        </Col>
+       
       </Row>
       <Row>
         <Col size="md-12">

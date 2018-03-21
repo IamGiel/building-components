@@ -33,8 +33,9 @@
   margin-top: 0;
 }
 img {
-  vertical-align: middle;
-  border-style: none;
-  z-index: -100;
-  width: 100%;
+      vertical-align: middle;
+    border-style: none;
+    z-index: -100;
+    width: 50%;
+    height: 90%;
 }

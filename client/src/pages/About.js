@@ -8,17 +8,17 @@ import "./style.css";
 const About = () => (
   <div>
     <Hero
-      backgroundImage="../../assets/images/boltsScrews.jpg"
-      className="background"
+      // backgroundImage="../../assets/images/boltsScrews.jpg"
+      // className="background"
     >
       <h1>Welcome,</h1>
       {/* <h2>This is where I live... </h2> */}
     </Hero>
     <Container style={{ marginTop: 30 }}>
       <Row>
-        <Col size="md-12">
+        {/* <Col size="md-12">
           <h1>Welcome To Gels Web!</h1>
-        </Col>
+        </Col> */}
       </Row>
       <Row>
         <Col size="md-12">

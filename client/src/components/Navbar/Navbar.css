@@ -1,7 +1,7 @@
 .veryTop {
   margin-bottom: 0;
   color: white;
-  background: #001e7d;
+  background: #246371;
   height: 4em;
 }
 .navbar {
@@ -48,7 +48,7 @@
   position: absolute;
   top: 100%;
   left: 0;
-  z-index: 1000;
+  z-index: -100;
   display: none;
   float: left;
   min-width: 10rem;
@@ -90,18 +90,18 @@
   color: red;
 }
 .wrapper {
-    min-height: 100%;
-    padding-bottom: 0;
+  min-height: 100%;
+  padding-bottom: 0;
 }
-a{
-  color:rgb(117, 14, 14);
+a {
+  color: rgb(117, 14, 14);
 }
 
 .dropdown-item listItems:hover {
   background-color: green;
   color: black;
 }
-.gels{
-  color:white;
+.gels {
+  color: white;
   /* background-image: url('../../assets/images/giel-logo.png'); */
 }

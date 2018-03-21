@@ -2,21 +2,22 @@
   min-height: 100px;
   background: #596690;
   position: fixed;
-  top: 35.5em;
+  bottom: -2%;
   width: 100%;
   color: aliceblue;
   margin: 0px;
 }
 
 .footer span {
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  bottom: -6px;
   left: 0;
   right: 0;
-  padding: 3px;
-  background: #001e7d;
-  height: 7em;
+  padding: 19px;
+  background: #1f5166;
+  height: 50em;
   line-height: 73px;
   text-align: center;
   font-size: 12px;
+  margin-left: 40%;
 }
