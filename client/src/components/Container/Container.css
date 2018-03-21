@@ -1,0 +1,8 @@
+.left {
+  width: 150px;
+  height: 100px;
+  background-image: url("../../assets/images/boltsScrews.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}

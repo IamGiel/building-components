@@ -1,35 +1,12 @@
-.veryTop {
-  margin-bottom: 0;
-  color: white;
-  background: #246371;
-  height: 4em;
+nav {
+  color: #fff;
+  background-color: #0a3f4b;
+  width: 100%;
+  height: 56px;
+  line-height: 59px;
+  height: 12%;
 }
-.navbar {
-  position: relative;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  padding: 0.2em 0rem;
-}
-.navbar-brand {
-  display: block;
-  padding-top: 0;
-  padding-bottom: -7.6875rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
-  line-height: 4em;
-  white-space: nowrap;
-  position: relative;
-  top: -12px;
-}
+
 .spanExtra {
   position: absolute;
   bottom: 0;
@@ -40,68 +17,24 @@
   height: 1em;
   top: 4em;
 }
-.dropdown-menu.show {
-  display: block;
-  height: auto;
-}
-.dropdown-menu {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: -100;
-  display: none;
-  float: left;
-  min-width: 10rem;
-  padding: -5.5rem 0;
-  margin: 0.125rem 0 0;
-  font-size: 1rem;
-  color: #3c4dad;
-  text-align: left;
-  list-style: none;
-  background-color: #dabcb3;
-  background-clip: padding-box;
-  border: 1px solid rgba(100, 0, 0, 0.15);
-  border-radius: 0.25rem;
-  height: 5em;
-}
-.dropdown {
-  position: relative;
-  left: -8em;
-  top: -6px;
-  height: 30px;
-}
 
-.btn:not(:disabled):not(.disabled) {
-  cursor: pointer;
-  position: relative;
-  top: 0em;
-  height: 2em;
-  left: 8em;
-}
-.myName {
-  position: relative;
-  top: 1em;
-  color: rgb(151, 22, 22);
-}
-.listItems {
-  background-color: rgba(14, 93, 158, 0.445);
-  height: -1em;
-  width: auto;
+a.listItems {
   color: red;
 }
-.wrapper {
-  min-height: 100%;
-  padding-bottom: 0;
-}
-a {
-  color: rgb(117, 14, 14);
-}
 
-.dropdown-item listItems:hover {
-  background-color: green;
-  color: black;
+.buttonContainer {
+  position: relative;
+  top: -3%;
 }
-.gels {
-  color: white;
-  /* background-image: url('../../assets/images/giel-logo.png'); */
+.btn,
+.btn-large {
+  text-decoration: none;
+  color: #fff;
+  background-color: #2e7bb0;
+  text-align: center;
+  letter-spacing: 0.5px;
+  transition: 0.2s ease-out;
+  cursor: pointer;
+  position: relative;
+  left: 1em;
 }

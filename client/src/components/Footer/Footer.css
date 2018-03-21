@@ -1,23 +1,28 @@
 .footer {
-  min-height: 100px;
+  min-height: 206px;
   background: #596690;
   position: fixed;
-  bottom: -2%;
+  bottom: -4%;
   width: 100%;
   color: aliceblue;
   margin: 0px;
 }
 
-.footer span {
+.span1 {
   position: relative;
-  bottom: -6px;
-  left: 0;
-  right: 0;
-  padding: 19px;
-  background: #1f5166;
-  height: 50em;
-  line-height: 73px;
+  display: block;
+  height: 5%;
+  width: 100%;
+  background: #2a6076;
   text-align: center;
-  font-size: 12px;
-  margin-left: 40%;
+}
+
+.span2 {
+  position: absolute;
+  display: block;
+  height: 29%;
+  width: 100%;
+  background: #a4bac1;
+  text-align: center;
+  top: 28%;
 }
