@@ -40,6 +40,21 @@ const Navbar = props => {
                 {/* <Link to="/discover">RESTful API</Link> */}Fh-V2
               </a>
             </li>
+            <li>
+              <a href="https://fast-depths-29670.herokuapp.com/" className="listItems">
+                {/* <Link to="/discover">RESTful API</Link> */}Reading List
+              </a>
+            </li>
+            <li>
+              <a href="https://immense-tor-91031.herokuapp.com/" className="listItems">
+                {/* <Link to="/discover">RESTful API</Link> */}Friend-Finder
+              </a>
+            </li>
+            <li>
+              <a href="https://powerful-depths-25126.herokuapp.com/" className="listItems">
+                {/* <Link to="/discover">RESTful API</Link> */}Famous Burgers
+              </a>
+            </li>
           </ul>
         </div>
 

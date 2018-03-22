@@ -7,6 +7,7 @@
   left: 0;
   overflow: show;
   z-index: -100;
+  background-image: url('../assets/images/boltsScrews.jpg');
 }
 p {
   z-index: 1;
