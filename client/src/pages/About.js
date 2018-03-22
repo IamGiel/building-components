@@ -6,14 +6,12 @@ import Col from "../components/Col";
 import "./style.css";
 
 
-const avatarStyle ={
-  backgroundImage: "url('../assets/images/boltsScrews.jpg')"
-};
-
-
 const About = () => (
   <div>
-    <div style={avatarStyle} />
+    <div id="whiteCanvass">
+
+    <h3>There's many allegory to this, but what it best represent is the beginning of a journey.</h3>
+    </div>
   </div>
 );
 
