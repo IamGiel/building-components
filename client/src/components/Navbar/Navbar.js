@@ -21,18 +21,13 @@ const Navbar = props => {
           {/* <!-- Dropdown Structure --> */}
           <ul id="demoDropdown" className="dropdown-content">
             <li>
-              <a href="/" className="listItems">
-                {/* <Link to="/">About</Link> */}About
+              <a href="https://salty-everglades-65888.herokuapp.com/" className="listItems">
+                {/* <Link to="/">About</Link> */}Its Raining
               </a>
             </li>
             <li>
               <a href="https://the-reading-exchange.herokuapp.com/" className="listItems">
                 {/* <Link to="/discover">Discover</Link> */}Exchanges
-              </a>
-            </li>
-            <li>
-              <a href="https://salty-everglades-65888.herokuapp.com/" className="listItems">
-                Rainy
               </a>
             </li>
             <li>
