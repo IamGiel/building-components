@@ -25,6 +25,12 @@ const Navbar = props => {
                 {/* <Link to="/">About</Link> */}Its Raining
               </a>
             </li>
+
+            <li>
+              <a href=" https://iamgiel.github.io/GifTastic/" className="listItems">
+                {/* <Link to="/discover">Discover</Link> */}Gif ur Emotion
+              </a>
+            </li>
             <li>
               <a href="https://the-reading-exchange.herokuapp.com/" className="listItems">
                 {/* <Link to="/discover">Discover</Link> */}Exchanges
