@@ -18,24 +18,35 @@
 }
 h3 {
   border: 1em;
-  margin: 0em 0 0 12%;
-  width: 30%;
-  position: relative;
+  margin: 12% 0 0 12%;
+  width: 50%;
   left: auto;
-  top: 10%;
+  top: 11%;
   float: left;
   display: block;
+  font-size: 36px;
 }
 p {
   z-index: 1;
 }
-/* h1 {
-  position: relative;
-  top: -22em;
-  left: 2em;
-  color: white;
-  box-shadow: -2em 7px red;
-} */
+
 html {
-  height: 40em;
+  height: auto;
+}
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+  h3 {
+    border: 1em;
+    margin: 0em 0 0 12%;
+    width: 30%;
+    position: relative;
+    left: auto;
+    top: 10%;
+    float: left;
+    display: block;
+    font-size: 1.92rem;
+  }
 }
