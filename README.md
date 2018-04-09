@@ -8,7 +8,7 @@ The front-end React app will auto-reload as it's updated via webpack dev server,
 
 ## Starting the app locally
 
-Start by installing front and backend dependencies. While in this directory, run the following commands:
+Start by installing front and backend dependencies. While in this directory, run the following commands: `yarn start` at the root directory.
 
 ```
 yarn install
