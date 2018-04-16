@@ -15,7 +15,7 @@ const Navbar = props => {
         {/* <!-- Dropdown Trigger --> */}
         <div className="buttonContainer">
           <a className="dropdown-button btn dropdown" href="javascript:void(0);" data-activates="demoDropdown">
-            Explore
+            Some of my Work
           </a>
 
           {/* <!-- Dropdown Structure --> */}
