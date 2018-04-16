@@ -42,11 +42,6 @@ const Navbar = props => {
               </a>
             </li>
             <li>
-              <a href="https://fh-v2.herokuapp.com/" className="listItems">
-                {/* <Link to="/discover">RESTful API</Link> */}Fh-V2
-              </a>
-            </li>
-            <li>
               <a href="https://fast-depths-29670.herokuapp.com/" className="listItems">
                 {/* <Link to="/discover">RESTful API</Link> */}Reading List
               </a>
